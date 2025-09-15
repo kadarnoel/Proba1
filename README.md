@@ -1,31 +1,14 @@
 # Proba1
 Térinformatikai alkalmazások című kurzus próbája.
 
-Megyen az info.
+A tárgy lényeges pontjai:
 
-Felsorolas
+ -Webes ismertetés
 
-1
+-Internetes alaposmeretek
 
-2
+-HTML
 
-3
+-Javascript
 
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-
-# Wao ilyet is lehet
-
-# Tesztekbae
+-stp.
